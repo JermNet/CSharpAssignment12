@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uElU/Rrygz8=",
+  "dgSpecHash": "LrtRu5i1dE0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy'sAssignments\\Assignment12\\Assignment12\\Assignment12.csproj",
+  "projectFilePath": "C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment12\\Assignment12\\Assignment12.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wjd47\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\monogame.content.builder.task.3.8.2.1105.nupkg.sha512",
     "C:\\Users\\wjd47\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.2.1105\\monogame.framework.desktopgl.3.8.2.1105.nupkg.sha512",

@@ -244,11 +244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy'sAssignments\\Assignment12\\Assignment12\\Assignment12.csproj",
+      "projectUniqueName": "C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment12\\Assignment12\\Assignment12.csproj",
       "projectName": "Assignment12",
-      "projectPath": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy'sAssignments\\Assignment12\\Assignment12\\Assignment12.csproj",
+      "projectPath": "C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment12\\Assignment12\\Assignment12.csproj",
       "packagesPath": "C:\\Users\\wjd47\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy'sAssignments\\Assignment12\\Assignment12\\obj\\",
+      "outputPath": "C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment12\\Assignment12\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -281,7 +281,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -312,7 +312,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
